@@ -1,5 +1,5 @@
 <div align= "center">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Farmer's%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Farmer's%20Code%20hello&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
    </div>
    <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -31,6 +31,6 @@
    <h2 style="border-bottom: 1px solid #; color: #282d33;"> 🏅 Stats </h2> 
        <div style="text-align: left;"> 
              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSH1214&layout=compact&hide=javascript,css,scss&langs_count=8"/>
-<img src=https://github-readme-stats.vercel.app/api?username=YSH1214&show_icons=true
+<img src=https://github-readme-stats.vercel.app/api?username=myeongbogyeong&show_icons=true
          /> </div> 
    </div>
