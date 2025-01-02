@@ -1,4 +1,4 @@
- <div [●](#" style="color:white; font-size:10px; text-shadow:1px 1px 1px #97A9B9; text-decoration:none;)[●](#" style="color:white; font-size:15px; text-shadow:1px 1px 1px #97A9B9; text-decoration:none;) [뭐 어떻게 할 수 있는거지](#" style="text-decoration:none; color:black; background:white; border-radius:20px; line-height:1.3; padding:6.5px; display: inline-block; box-shadow: 1px 1px 1px #97A9B9;)>
+ <div ●(#" style="color:white; font-size:10px; text-shadow:1px 1px 1px #97A9B9; text-decoration:none;) ●(#" style="color:white; font-size:15px; text-shadow:1px 1px 1px #97A9B9; text-decoration:none;) 뭐 어떻게 할 수 있는거지(#" style="text-decoration:none; color:black; background:white; border-radius:20px; line-height:1.3; padding:6.5px; display: inline-block; box-shadow: 1px 1px 1px #97A9B9;)>
    </div>
    <div style="text-align: left;">
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
