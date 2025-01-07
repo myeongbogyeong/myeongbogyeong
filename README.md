@@ -47,7 +47,7 @@
    <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #; color: #282d33;"> 🏅 Stats </h2> 
        <div style="text-align: left;"> 
-             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myeongbogyeong&layout=compact&hide=javascript,css,scss&langs_count=8"/>
+             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myeongbogyeong&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=45,ECE9E6,FFFFFF&icon_color=58A6FF&text_color=fff&title_color=b4a7d6&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src=https://github-readme-stats.vercel.app/api?username=myeongbogyeong&show_icons=true
          /> </div> 
    </div>
