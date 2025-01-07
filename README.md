@@ -22,6 +22,9 @@
 </p>
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/%7Busername%7D?pet-id=1" width="1000" height="120"/>
+</a>
 
 
  <div style=●(#" style="color:white; font-size:10px; text-shadow:1px 1px 1px #97A9B9; text-decoration:none;) ●(#" style="color:white; font-size:15px; text-shadow:1px 1px 1px #97A9B9; text-decoration:none;) 뭐 어떻게 할 수 있는거지(#" style="text-decoration:none; color:black; background:white; border-radius:20px; line-height:1.3; padding:6.5px; display: inline-block; box-shadow: 1px 1px 1px #97A9B9;)>
