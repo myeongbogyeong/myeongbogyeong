@@ -1,7 +1,7 @@
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDVwm0%2FbtsLHUrU70O%2FjXV4ECIVi9NePzB4WiUyYK%2Fimg.jpg"  width="300" height="800"/>
 
-[![KEY(키) _ Good & Great](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDVwm0%2FbtsLHUrU70O%2FjXV4ECIVi9NePzB4WiUyYK%2Fimg.jpg)](https://youtu.be/ZYHBKvNUmk0?si=F8ZEVu1MbsaFg3Yl) 
+[![KEY(키) _ Good & Great]"https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDVwm0%2FbtsLHUrU70O%2FjXV4ECIVi9NePzB4WiUyYK%2Fimg.jpg" width="300" height="800"](https://youtu.be/ZYHBKvNUmk0?si=F8ZEVu1MbsaFg3Yl) 
    </div>
    <div style="text-align: right;">
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Oh, HI </h2> <br> 
