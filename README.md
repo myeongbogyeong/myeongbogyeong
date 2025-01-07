@@ -1,7 +1,12 @@
-<div style="display: flex; align-items: center;">
-  <p style="margin-right: 20px;">되는 거 맞 나요 ?</p>
-  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDVwm0%2FbtsLHUrU70O%2FjXV4ECIVi9NePzB4WiUyYK%2Fimg.jpg" width="400" height="800" alt="Image description" />
-</a>
+
+<table>
+  <tr>
+      <a href="https://youtu.be/QxOpuD5iO0k?si=b6vpE2hL8xfhUUmy">
+        <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqvR8d%2FbtsLHS8IG4x%2FfRUNRUtcxqH64BgftObcb1%2Fimg.jpg" width="200" height="500" />
+      </a>
+      여기에 텍스트를 넣으세요
+  </tr>
+</table>
 
 
 
