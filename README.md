@@ -1,17 +1,15 @@
-<div style="display: flex; justify-content: space-between; align-items: center; height: 500px;">
-<!-- 이미지 -->
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <a href="https://youtu.be/QxOpuD5iO0k?si=b6vpE2hL8xfhUUmy">
-    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqvR8d%2FbtsLHS8IG4x%2FfRUNRUtcxqH64BgftObcb1%2Fimg.jpg" width="500" height="500" style="object-fit: cover;" />
-    </a>
-  </div>
-    <!-- 텍스트 -->
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <h4 style="width: 500px; text-align: center; line-height: 100px;">
-        여기에 텍스트를 넣으세요
-    </h4>
-  </div>
-</div>
+<table style="width: 100%; height: 500px;">
+  <tr>
+    <!-- 왼쪽: 이미지 -->
+    <td style="width: 50%; text-align: center; vertical-align: middle;">
+      <a href="https://youtu.be/QxOpuD5iO0k?si=b6vpE2hL8xfhUUmy">
+        <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqvR8d%2FbtsLHS8IG4x%2FfRUNRUtcxqH64BgftObcb1%2Fimg.jpg" width="300" height="300" style="object-fit: cover;" />
+      </a>
+    </td>
+      </h4>
+    </td>
+  </tr>
+</table>
 
 
 <p align="right">
