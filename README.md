@@ -1,5 +1,5 @@
 <a href="https://youtu.be/ZYHBKvNUmk0?si=F8ZEVu1MbsaFg3Yl">
-  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDVwm0%2FbtsLHUrU70O%2FjXV4ECIVi9NePzB4WiUyYK%2Fimg.jpg" width="200" height="400" alt="Image description" />
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDVwm0%2FbtsLHUrU70O%2FjXV4ECIVi9NePzB4WiUyYK%2Fimg.jpg" width="400" height="800" alt="Image description" />
 </a>
 
 
