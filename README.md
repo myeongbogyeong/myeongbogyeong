@@ -1,18 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&pause=1000&color=7690B7&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=just+take+me+straight+to+the+court)](https://github.com/myeongbogyeong)
 
 
-<table style="width: 100%; height: 500px;">
-  <tr>
-    <!-- 왼쪽: 이미지 -->
-    <td style="width: 50%; text-align: center; vertical-align: middle;">
-      <a href="https://youtu.be/QxOpuD5iO0k?si=b6vpE2hL8xfhUUmy">
-        <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqvR8d%2FbtsLHS8IG4x%2FfRUNRUtcxqH64BgftObcb1%2Fimg.jpg" width="300" height="300" style="object-fit: cover;" />
-      </a>
-    </td>
-      </h4>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- 첫 번째 이미지 -->
+  <a href="https://youtu.be/QxOpuD5iO0k?si=b6vpE2hL8xfhUUmy">
+    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqvR8d%2FbtsLHS8IG4x%2FfRUNRUtcxqH64BgftObcb1%2Fimg.jpg" width="500" height="500" style="border-radius: 10px; object-fit: cover;" alt="First Image">
+  </a>
+  <!-- 두 번째 이미지 -->
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fclhseg%2FbtsLHPkoe3O%2FzrPl1Ec7wUI5dtA7UIUl61%2Fimg.png" width="500" height="500" style="border-radius: 10px; object-fit: cover;" alt="Second Image">
+</div>
 
 
 <p align="right">
