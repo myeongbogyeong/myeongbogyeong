@@ -18,7 +18,7 @@
 <p align="right">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="150" height="150" style="vertical-align: middle; margin-right: 10px;" />
   <span style="border-bottom: 5px solid #d8dee4; color: #282d33; vertical-align: middle;">
-    Oh, HI - 참깨빵 위에 순살고기 패티 두 장, 특별한 소스, 양상추, 치즈, 피클양파까지안녕하세요부산월드엑스포홍보대사이정재입니다부산은영화일로제가자주찾는도시이고제가사랑하는경이로운도시이죠이도시의매력을2030년저와함께찾아보지않으시겠어요
+    Oh, HI
   </span>
 </p>
 
