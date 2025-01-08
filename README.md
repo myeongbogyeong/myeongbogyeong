@@ -4,10 +4,10 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- 첫 번째 이미지 -->
   <a href="https://youtu.be/QxOpuD5iO0k?si=b6vpE2hL8xfhUUmy">
-    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqvR8d%2FbtsLHS8IG4x%2FfRUNRUtcxqH64BgftObcb1%2Fimg.jpg" width="500" height="500" style="border-radius: 10px; object-fit: cover;" alt="First Image">
+    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqvR8d%2FbtsLHS8IG4x%2FfRUNRUtcxqH64BgftObcb1%2Fimg.jpg" width="300" height="300" style="border-radius: 10px; object-fit: cover;" alt="First Image">
   </a>
   <!-- 두 번째 이미지 -->
-  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fclhseg%2FbtsLHPkoe3O%2FzrPl1Ec7wUI5dtA7UIUl61%2Fimg.png" width="500" height="500" style="border-radius: 10px; object-fit: cover;" alt="Second Image">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fclhseg%2FbtsLHPkoe3O%2FzrPl1Ec7wUI5dtA7UIUl61%2Fimg.png" width="300" height="300" style="border-radius: 10px; object-fit: cover;" alt="Second Image">
 </div>
 
 
