@@ -11,7 +11,7 @@
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fclhseg%2FbtsLHPkoe3O%2FzrPl1Ec7wUI5dtA7UIUl61%2Fimg.png" width="400" height="400" style="border-radius: 10px; object-fit: cover;" alt="Second Image">
 </div>
 
-
+    
 
 > 하고 싶은 것도 많고 생각보다 끈기도 약하고 매일 포기할까 생각 드는 건 어쩔 수 없는 일이겠죠... 그런데 사람이 칼을 들었으면 무라도 썰어야 되는 것 아니겠어요? 그냥 그런 마음가짐으로 살아갑니다. 그렇게라도 좀 하다 보면 언젠가 완주라도 하게 되어있거든요...
 
