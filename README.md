@@ -9,22 +9,19 @@
 
     
 <br>
-
-> 하고 싶은 것도 많고 생각보다 끈기도 약하고 매일 포기할까 생각 드는 건 어쩔 수 없는 일이겠죠... 그런데 사람이 칼을 들었으면 무라도 썰어야 되는 것 아니겠어요? 그냥 그런 마음가짐으로 살아갑니다. 그렇게라도 좀 하다 보면 언젠가 완주라도 하게 되어있거든요...
-
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="150" height="150" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="border-bottom: 5px solid #d8dee4; color: #282d33; vertical-align: middle;">
-    Oh, HI
-  </span>
-</p>
-
-
-### 𝑮𝑬𝑻 𝑿𝑶𝑫𝑰𝑵𝑮 𝑾𝑰𝑻𝑯 𝑴𝑬
+  
+## 𝑮𝑬𝑻 𝑿𝑶𝑫𝑰𝑵𝑮 𝑾𝑰𝑻𝑯 𝑴𝑬
+> 하고 싶은 것도 많고 생각보다 끈기도 약하고 매일 포기할까 생각 드는 건 어쩔 수 없는 일이겠죠... 그런데 사람이 칼을 들었으면 무라도 썰어야 되는 것 아니겠어요? 그냥 그런 마음가짐으로 살아갑니다. 그렇게라도 좀 하다 보면 언젠가 완주라도 하게 되어있거든요.
 * [x] Keep moving
 * [x] Not too fast, But don't quit
-* [ ] Can do it  
+* [x] Can do it
+* [ ] Oh, Hi
+
+
+- [ ] HElLo?
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="50" height="50" style="vertical-align: middle; margin-left: 10px;" />
+
+  
 
 
 <a href="https://github.com/devxb/gitanimals">
