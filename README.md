@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- 첫 번째 이미지 -->
-  <a href="https://youtu.be/QxOpuD5iO0k?si=b6vpE2hL8xfhUUmy">
+  <a href="https://realzzan.tistory.com/2">
     <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqvR8d%2FbtsLHS8IG4x%2FfRUNRUtcxqH64BgftObcb1%2Fimg.jpg" width="400" height="400" style="border-radius: 10px; object-fit: cover;" alt="First Image">
 </div>
 
@@ -20,10 +20,10 @@
 
 
 - [ ] HeLLo?
-  <a href="https://realzzan.tistory.com/">
+  <a href="https://realzzan.tistory.com/1">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="50" height="50" style="vertical-align: middle; margin-left: 10px;" />
   </a>
-CliCk MI!
+CliCk Meee!
 <br>
 
 > 배우고 싶은 기술 스택  
