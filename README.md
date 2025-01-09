@@ -22,10 +22,14 @@
 - [ ] HElLo?
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="50" height="50" style="vertical-align: middle; margin-left: 10px;" />
 <br>
-<br>
-<br>
-<br>
 
+## 📫 𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑯𝑬𝑹𝑬
+Gmail: zzazan0320@gmail.com
+
+Naver: foricenc@naver.com
+<br>
+<br>
+<br>
 
  ---
  <br>
