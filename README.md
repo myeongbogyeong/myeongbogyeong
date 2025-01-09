@@ -20,7 +20,8 @@
 
 
 - [ ] HElLo?
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="50" height="50" style="vertical-align: middle; margin-left: 10px;" />
+  <a href="https://realzzan.tistory.com/">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="50" height="50" style="vertical-align: middle; margin-left: 10px;" />
 <br>
 
 > 배우고 싶은 기술 스택  
