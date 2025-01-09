@@ -23,6 +23,10 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="50" height="50" style="vertical-align: middle; margin-left: 10px;" />
 <br>
 
+> 배우고 싶은 기술 스택  
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<br>
+
 ## 📫 𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑯𝑬𝑹𝑬
 Gmail: zzazan0320@gmail.com
 
