@@ -23,7 +23,7 @@
   <a href="https://realzzan.tistory.com/1">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="50" height="50" style="vertical-align: middle; margin-left: 10px;" />
   </a>
-CliCk Meee!
+𝘊𝘭𝘪𝘊𝘬 𝘔𝘦𝘦𝘦!
 <br>
 
 > 배우고 싶은 기술 스택  
