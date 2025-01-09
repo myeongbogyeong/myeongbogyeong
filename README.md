@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&pause=1000&color=7690B7&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=just+take+me+straight+to+the+court)](https://github.com/myeongbogyeong)
 
 
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- 첫 번째 이미지 -->
   <a href="https://youtu.be/QxOpuD5iO0k?si=b6vpE2hL8xfhUUmy">
@@ -21,6 +20,11 @@
   </span>
 </p>
 
+
+### 𝑮𝑬𝑻 𝑿𝑶𝑫𝑰𝑵𝑮 𝑾𝑰𝑻𝑯 𝑴𝑬
+* [x] Keep moving
+* [x] Not too fast, But don't quit
+* [ ] Can do it  
 
 
 <a href="https://github.com/devxb/gitanimals">
