@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&pause=1000&color=7690B7&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=just+take+me+straight+to+the+court)](https://github.com/myeongbogyeong)
 
 
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- 첫 번째 이미지 -->
   <a href="https://youtu.be/QxOpuD5iO0k?si=b6vpE2hL8xfhUUmy">
@@ -10,7 +11,7 @@
     
 <br>
   
-## 𝑮𝑬𝑻 𝑿𝑶𝑫𝑰𝑵𝑮 𝑾𝑰𝑻𝑯 𝑴𝑬
+## 📻 𝑮𝑬𝑻 𝑿𝑶𝑫𝑰𝑵𝑮 𝑾𝑰𝑻𝑯 𝑴𝑬
 > 하고 싶은 것도 많고 생각보다 끈기도 약하고 매일 포기할까 생각 드는 건 어쩔 수 없는 일이겠죠... 그런데 사람이 칼을 들었으면 무라도 썰어야 되는 것 아니겠어요? 그냥 그런 마음가짐으로 살아갑니다.
 * [x] Keep moving
 * [x] Not too fast, But don't quit
@@ -24,7 +25,11 @@
 <br>
 <br>
 <br>
-    
+
+
+ ---
+ <br>
+ <br>
 <p align="center">
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbo8if7%2FbtsLGPZrsqp%2F2k7FahkCCDcI3rJ9U4WCPK%2Fimg.jpg" alt="Image 1" width=30% height="200">
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbzBwxb%2FbtsLFgRilav%2FKXjPhwYhZTi1Ls3I7rFgqK%2Fimg.jpg" alt="Image 2" width=30%  height="200">
@@ -49,15 +54,11 @@
 <br>
      
 ---
-   <div style="text-align: left;"> <a href=https://velog.io/@hktysh/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hktysh/posts"> </a>
-        <a href=mailto:hktysh@nextrunners.co.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zzazan0320@gmail.com"> </a>
-         </div>  <br> 
-   <div style="text-align: left;">  </div> 
-   </div>
-   <div style="text-align: left;"> 
-             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myeongbogyeong&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=45,ECE9E6,FFFFFF&icon_color=58A6FF&text_color=fff&title_color=b4a7d6&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src=https://github-readme-stats.vercel.app/api?username=myeongbogyeong&show_icons=true
-         /> </div> 
-   </div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=myeongbogyeong&theme=dayfox&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</div>
 
   
